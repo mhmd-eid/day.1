@@ -1,0 +1,14 @@
+C:\Users\Mhmd\source\repos\task.n.1\task.n.1\bin\Debug\net8.0\task.n.1.exe
+C:\Users\Mhmd\source\repos\task.n.1\task.n.1\bin\Debug\net8.0\task.n.1.deps.json
+C:\Users\Mhmd\source\repos\task.n.1\task.n.1\bin\Debug\net8.0\task.n.1.runtimeconfig.json
+C:\Users\Mhmd\source\repos\task.n.1\task.n.1\bin\Debug\net8.0\task.n.1.dll
+C:\Users\Mhmd\source\repos\task.n.1\task.n.1\bin\Debug\net8.0\task.n.1.pdb
+C:\Users\Mhmd\source\repos\task.n.1\task.n.1\obj\Debug\net8.0\task.n.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhmd\source\repos\task.n.1\task.n.1\obj\Debug\net8.0\task.n.1.AssemblyInfoInputs.cache
+C:\Users\Mhmd\source\repos\task.n.1\task.n.1\obj\Debug\net8.0\task.n.1.AssemblyInfo.cs
+C:\Users\Mhmd\source\repos\task.n.1\task.n.1\obj\Debug\net8.0\task.n.1.csproj.CoreCompileInputs.cache
+C:\Users\Mhmd\source\repos\task.n.1\task.n.1\obj\Debug\net8.0\task.n.1.dll
+C:\Users\Mhmd\source\repos\task.n.1\task.n.1\obj\Debug\net8.0\refint\task.n.1.dll
+C:\Users\Mhmd\source\repos\task.n.1\task.n.1\obj\Debug\net8.0\task.n.1.pdb
+C:\Users\Mhmd\source\repos\task.n.1\task.n.1\obj\Debug\net8.0\task.n.1.genruntimeconfig.cache
+C:\Users\Mhmd\source\repos\task.n.1\task.n.1\obj\Debug\net8.0\ref\task.n.1.dll

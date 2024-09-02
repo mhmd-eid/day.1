@@ -1,0 +1,14 @@
+C:\Users\mhmde\Desktop\g.508\search\bin\Debug\net8.0\search.exe
+C:\Users\mhmde\Desktop\g.508\search\bin\Debug\net8.0\search.deps.json
+C:\Users\mhmde\Desktop\g.508\search\bin\Debug\net8.0\search.runtimeconfig.json
+C:\Users\mhmde\Desktop\g.508\search\bin\Debug\net8.0\search.dll
+C:\Users\mhmde\Desktop\g.508\search\bin\Debug\net8.0\search.pdb
+C:\Users\mhmde\Desktop\g.508\search\obj\Debug\net8.0\search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmde\Desktop\g.508\search\obj\Debug\net8.0\search.AssemblyInfoInputs.cache
+C:\Users\mhmde\Desktop\g.508\search\obj\Debug\net8.0\search.AssemblyInfo.cs
+C:\Users\mhmde\Desktop\g.508\search\obj\Debug\net8.0\search.csproj.CoreCompileInputs.cache
+C:\Users\mhmde\Desktop\g.508\search\obj\Debug\net8.0\search.dll
+C:\Users\mhmde\Desktop\g.508\search\obj\Debug\net8.0\refint\search.dll
+C:\Users\mhmde\Desktop\g.508\search\obj\Debug\net8.0\search.pdb
+C:\Users\mhmde\Desktop\g.508\search\obj\Debug\net8.0\search.genruntimeconfig.cache
+C:\Users\mhmde\Desktop\g.508\search\obj\Debug\net8.0\ref\search.dll
